@@ -36,7 +36,7 @@ dependencies {
 
     // Required for automatic code retrieval from SMS (Consent API)
     // https://developers.google.com/identity/sms-retriever/user-consent/overview
-//    implementation "com.google.android.gms:play-services-auth:19.2.0"
+    implementation "com.google.android.gms:play-services-auth:21.0.2"
     implementation "com.google.android.gms:play-services-auth-api-phone:18.0.1"
 
     // Contains modern "Start activity/fragment for result" APIs which are
