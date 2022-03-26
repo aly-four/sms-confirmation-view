@@ -25,7 +25,6 @@ import com.fraggjkee.smsconfirmationview.smsretriever.SmsParser
 import com.fraggjkee.smsconfirmationview.smsretriever.SmsRetrieverContract
 import com.fraggjkee.smsconfirmationview.smsretriever.SmsRetrieverReceiver
 import com.google.android.gms.auth.api.phone.SmsRetriever
-import com.google.android.gms.auth.api.phone.SmsRetrieverClient
 
 class SmsConfirmationView @JvmOverloads constructor(
     context: Context,
